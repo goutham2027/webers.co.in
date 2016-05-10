@@ -1,6 +1,9 @@
 ---
 title: Reading list
 ---
+### Computer Fundamentals
+
+[A beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
 ### JS:
 
@@ -15,10 +18,13 @@ title: Reading list
 [Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
 
 ### Articles:
+[What are the best-kept secrets of great programmers?](https://www.quora.com/What-are-the-best-kept-secrets-of-great-programmers/answer/Jens-Rantil)
+
+[Effective Code Review](https://alexgaynor.net/2013/sep/26/effective-code-review)
 
 [http://www.mattmakai.com/links-learning-web-fundamentals.html](http://www.mattmakai.com/links-learning-web-fundamentals.html)
 
-[https://www.shopify.in/technology/3383012-why-developers-should-be-force-fed-state-machines](https://www.shopify.in/technology/3383012-why-developers-should-be-force-fed-state-machines)
+[Why developers should be force fed state machines](https://www.shopify.in/technology/3383012-why-developers-should-be-force-fed-state-machines)
 
 [https://medium.com/@nayafia/the-atlantic-was-wrong-software-engineers-do-exist-24b2ed024861](https://medium.com/@nayafia/the-atlantic-was-wrong-software-engineers-do-exist-24b2ed024861)
 
